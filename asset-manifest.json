@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pgirishibm/react.github.io/static/css/main.4a327f01.chunk.css",
+    "main.js": "/pgirishibm/react.github.io/static/js/main.97d410b3.chunk.js",
+    "main.js.map": "/pgirishibm/react.github.io/static/js/main.97d410b3.chunk.js.map",
+    "runtime-main.js": "/pgirishibm/react.github.io/static/js/runtime-main.57f49ca1.js",
+    "runtime-main.js.map": "/pgirishibm/react.github.io/static/js/runtime-main.57f49ca1.js.map",
+    "static/js/2.dc39905b.chunk.js": "/pgirishibm/react.github.io/static/js/2.dc39905b.chunk.js",
+    "static/js/2.dc39905b.chunk.js.map": "/pgirishibm/react.github.io/static/js/2.dc39905b.chunk.js.map",
+    "static/js/3.09fab77d.chunk.js": "/pgirishibm/react.github.io/static/js/3.09fab77d.chunk.js",
+    "static/js/3.09fab77d.chunk.js.map": "/pgirishibm/react.github.io/static/js/3.09fab77d.chunk.js.map",
+    "index.html": "/pgirishibm/react.github.io/index.html",
+    "static/css/main.4a327f01.chunk.css.map": "/pgirishibm/react.github.io/static/css/main.4a327f01.chunk.css.map",
+    "static/js/2.dc39905b.chunk.js.LICENSE.txt": "/pgirishibm/react.github.io/static/js/2.dc39905b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f49ca1.js",
+    "static/js/2.dc39905b.chunk.js",
+    "static/css/main.4a327f01.chunk.css",
+    "static/js/main.97d410b3.chunk.js"
+  ]
+}
